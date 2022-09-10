@@ -1,7 +1,7 @@
 [package]
-name = "openapi"
+name = "semanticscholar"
 version = "1.0.0"
-authors = ["OpenAPI Generator team and contributors"]
+authors = ["novafacing <rowanbhart@gmail.com>"]
 edition = "2018"
 
 [dependencies]
