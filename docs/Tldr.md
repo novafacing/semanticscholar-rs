@@ -1,0 +1,12 @@
+# Tldr
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**model** | **String** | The underlying model+version that produced the tldr | 
+**text** | **String** | paper TLDR summary | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
